@@ -64,3 +64,5 @@ At the very core of SMACSS is categorization. By categorizing CSS rules, we begi
 **State rules** are ways to describe how our modules or layouts will look when in a particular state. Is it hidden or expanded? Is it active or inactive? They are about describing how a module or layout looks on screens that are smaller or bigger. They are also about describing how a module might look in different views like the home page or the inside page.
 
 **Theme rules** are similar to state rules in that they describe how modules or layouts might look. Most sites don’t require a layer of theming but it is good to be aware of it.
+
+[Home Page](https://osamamousa204.github.io/reading-notes-301/)
