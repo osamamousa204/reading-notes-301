@@ -18,6 +18,8 @@ Cross-platform programs
 
 ## What Is Node.js Used For?
 
- installing (via npm) and running (via Node) various build tools — designed to automate the process of developing a modern JavaScript application.
+installing (via npm) and running (via Node) various build tools — designed to automate the process of developing a modern JavaScript application.
 
 These build tools come in all shapes and sizes, and you won’t get far in a modern JavaScript landscape without bumping into them. They can be used for anything from bundling your JavaScript files and dependencies into static assets, to running tests, or automatic code linting and style checking.
+
+[Home Page](https://osamamousa204.github.io/reading-notes-301/)
